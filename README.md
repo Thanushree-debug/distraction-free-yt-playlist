@@ -4,7 +4,9 @@ This project is a simple, category-based web application that helps users watch 
 
 The website organizes videos into different categories like Music, Coding, and Gaming for focused viewing.
 
-## Live Website
+## Live Website 
+ https://thanushree-debug.github.io/distraction-free-yt-playlist/
+ 
 ## Features
 - Category based playlists
 - Clean and simple UI

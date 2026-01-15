@@ -1,14 +1,28 @@
-
 # Distraction Free YouTube Playlist
 
-A simple web application built using HTML and CSS to organize YouTube videos into distraction-free categories like Music, Coding, and Gaming.
+This project is a simple, category-based web application that helps users watch YouTube videos without distractions such as recommendations or unnecessary suggestions.
 
+The website organizes videos into different categories like Music, Coding, and Gaming for focused viewing.
+
+## Live Website
 ## Features
 - Category based playlists
-- Clean UI
-- Distraction free viewing
+- Clean and simple UI
+- Distraction free video watching
 - Beginner friendly project
 
-## Tech Used
+## Technologies Used
 - HTML
 - CSS
+
+## What I Learned
+- Structuring multi-page websites using HTML
+- Styling pages using basic CSS
+- Hosting a website using GitHub Pages
+- Managing a project on GitHub
+
+## Future Improvements
+- Add JavaScript playlist controls
+- Improve UI design
+- Make website more responsive
+
